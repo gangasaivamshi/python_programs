@@ -1,1 +1,1 @@
-# python_programs
+# This repository consists all my practised Python programs
